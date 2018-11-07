@@ -1,0 +1,26 @@
+.insertList{
+    margin-bottom: 10px;
+}
+.listCard{
+    border-bottom: 1px grey solid;
+    /* display: inline-block; */
+    width: 9%;
+}
+.btn{
+    border-radius: 50%;
+    border:1px solid gray;
+    background: transparent;
+    display: inline-block;
+}
+.deleteButton{
+    float: right;
+}
+.contentList{
+    display: inline-block;
+    margin: 0;
+    padding-left:15px; 
+    padding-bottom: 5px;
+}
+.done{
+    text-decoration:line-through;
+}
